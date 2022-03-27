@@ -1,0 +1,39 @@
+p {
+	margin: 5px 10px;
+	font-size: 14px;
+}
+input {
+	margin: 15px;
+}
+h3 {
+	margin: 10px;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+}
+button {
+	border-radius: 10px;
+	padding: 15px;
+	margin: 20px 0px 15px 15px;
+	cursor: pointer;
+	margin-right: 30px;
+}
+.edit-button {
+	background-color: #800080;
+	border: 1px solid #4B0082;
+	color: #ffffff;
+
+}
+.save-button {
+	background-color: #00008B;
+	border: 1px solid #000080;
+	color: #888888;
+}
+.cancel-button {
+	background-color: #0000FF;
+	border: 1px solid #0000CD;
+	color: #888888;
+}
+.center {
+	text-align: center;
+}

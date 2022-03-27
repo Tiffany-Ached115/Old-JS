@@ -1,0 +1,28 @@
+body {
+	font-size: 16 px;
+}
+li {
+	padding-top: 10px;
+	cursor: pointer;
+}
+input {
+	margin: 15px;
+}
+#list {
+	margin-left: 15px;
+}
+.done {
+	text-decoration: line-through;
+}
+.not-done{
+	text-decoration: none;
+}
+.add-button {
+	background-color: #800080;
+	color: #ffffff;
+	border: 1px solid #4B0082;
+	border-radius: 10px;
+	padding: 15px;
+	margin: 20px 0px 15px 15px;
+	cursor: pointer;
+}
